@@ -28,5 +28,5 @@ Welcome to the 500 Easy JavaScript Questions repository! This project offers a c
 
 ## Feedback
 
-If you have any feedback, please reach out to us at nishantbca8@gmail.com
+If you have any feedback, please reach out to us at nishantonsocialmedia@gmail.com
 
