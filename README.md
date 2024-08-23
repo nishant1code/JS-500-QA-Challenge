@@ -15,10 +15,10 @@ Welcome to the 500 Easy JavaScript Questions repository! This project offers a c
 * If/Else - 20 questions
 * Switch - 25 questions
 * Loops - 65 questions
-* Arrays - 95 questions
-* Strings - 80 questions
-* Functions - 75 questions
-* Objects - 70 questions
+* Arrays - 105 questions
+* Strings - 119 questions
+* Functions - 40 questions
+* Objects - 56 questions
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
